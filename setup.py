@@ -13,10 +13,10 @@ def read(fname):
 
 setup(
     name='pypi-rst-ref',
-    version='0.0.3',
+    version='0.0.4',
     description="A reference for how reStructuredText blocks are rendered by "
                 "Github and PyPI.",
-    long_description=read('README.rst') + '\n' + read('CHANGES.rst'),
+    long_description=read('README.rst'),
 
     url='https://github.com/moreati/pypi-rst-ref',
 
