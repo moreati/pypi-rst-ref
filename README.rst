@@ -51,3 +51,4 @@ Paragraph 9, Sphinx doctest block
 
     def foo():
         return None
+

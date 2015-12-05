@@ -1,3 +1,11 @@
+Changelog
+=========
+
+0.0.3
+-----
+
+- Whitespace
+
 0.0.2
 -----
 
@@ -7,3 +15,4 @@
 -----
 
 - Initial release
+
