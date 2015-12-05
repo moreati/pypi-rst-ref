@@ -13,7 +13,7 @@ def read(fname):
 
 setup(
     name='pypi-rst-ref',
-    version='0.0.4',
+    version='0.0.5',
     description="A reference for how reStructuredText blocks are rendered by "
                 "Github and PyPI.",
     long_description=read('README.rst'),

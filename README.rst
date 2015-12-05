@@ -47,8 +47,3 @@ Paragraph 8, code block, language=python
 
 Paragraph 9, Sphinx doctest block
 
-.. doctest::
-
-    def foo():
-        return None
-
