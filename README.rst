@@ -44,3 +44,10 @@ Paragraph 8, code block, language=python
 
     def foo():
         return None
+
+Paragraph 9, Sphinx doctest block
+
+.. doctest::
+
+    def foo():
+        return None
