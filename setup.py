@@ -16,7 +16,7 @@ setup(
     version='0.0.2',
     description="A reference for how reStructuredText blocks are rendered by "
                 "Github and PyPI.",
-    long_description=read('README.rst') + read('CHANGELOG.rst'),
+    long_description=read('README.rst') + read('CHANGES.rst'),
 
     url='https://github.com/moreati/pypi-rst-ref',
 
